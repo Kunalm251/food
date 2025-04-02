@@ -2,7 +2,7 @@
 
 {
     "version" : 2,
-    "name" : "Hunger",
+    "name" : "NMart",
     "builds" : [
         {
             "src" : "./server.js",
